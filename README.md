@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Yelena
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Java Script
+- 👀 I’m interested in process automation
 - 📫 The best way to reach me is LinkedIn 
 
 <!---
